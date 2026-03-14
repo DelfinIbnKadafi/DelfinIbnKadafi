@@ -21,18 +21,26 @@ Currently focused on improving architecture, reducing technical debt, and writin
 
 ## Tech Stack
 
-**Languages & Tools**
-- Pawn (SA-MP / open.mp)
-- MySQL
-- sscanf, streamer, mysql plugin
-- Git & GitHub
+**Languages**
+- Pawn
+- SQL
+- Javascript
+- Python
+- Html
+- Css
+- Lua script
+- C
+- C++
+- C#
+- Godot script
 
 **What I Work On**
 - Roleplay gamemode systems
 - Login & authentication flows
 - Player data persistence
-- Command handling & validation
-- Clean enum-based data structures
+- Website ui
+- Backend server
+- Database server
 
 ---
 
