@@ -1,3 +1,3 @@
 Heyyo, my names Delfin, im junior developer.
 
-I can : C, Python, Pawn, Javascript, HTML/CSS, and... im forget
+I can : C, Python, Pawn, Javascript, HTML/CSS, gdscript, and... im forget
