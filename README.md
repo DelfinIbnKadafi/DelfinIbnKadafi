@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am Full Stack Developer, but i'm work more in Low Level Language like C or C++.<br>My favorite language is C, sometimes i try to make a website, but im not great in that,<br>i'm looking for new Low Level Projects that i can contribute.<br><br>For sure, my hobby is programming, i still single, but i think i like someone, so you can be<br>my girlfriend. I'm like to create a game too, but i just used Godot cause my pc isnnt power,<br>sometimes it's lag, i hope y'all can give me new pc :(.<br><br>Im ready every times if you need my help, im ready to be your partner.
+I'am Full Stack Developer, but i'm work more in Low Level Language like C or C++.<br>My favorite language is C, sometimes i try to make a website, but im not great in that,<br>i'm looking for new Low Level Projects that i can contribute.<br><br>For sure, my hobby is programming, i have girlfriend (maybe), so you cant be<br>my girlfriend. I'm like to create a game too, but i just used Godot cause my pc isnnt power,<br>sometimes it's lag, i hope y'all can give me new pc :(.<br><br>Im ready every times if you need my help, im ready to be your partner.
 
 
 ## 🌐 Socials:
